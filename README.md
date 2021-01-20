@@ -7,3 +7,5 @@
 ## [new 关键字理解](https://github.com/MrRiven/note/blob/main/new.md)
 
 ## [html2canvas](https://github.com/MrRiven/note/blob/main/html2canvas.md)
+
+## [设计模式](https://github.com/MrRiven/note/blob/main/设计模式.md)
